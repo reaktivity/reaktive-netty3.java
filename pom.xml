@@ -5,7 +5,7 @@
 
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.reaktivity</groupId>
-  <artifactId>nuklear-netty3</artifactId>
+  <artifactId>reaktive-netty3</artifactId>
   <version>develop-SNAPSHOT</version>
   <name>Netty 3.x APIs for Nukleus</name>
   <url>https://github.com/reaktivity/nuklear-netty3.java</url>
@@ -30,9 +30,9 @@
   </developers>
 
   <scm>
-    <connection>scm:git:https://github.com/reaktivity/nuklear-netty3.java</connection>
-    <developerConnection>scm:git:https://github.com/reaktivity/nuklear-netty3.java</developerConnection>
-    <url>https://github.com/reaktivity/nuklear-netty3.java</url>
+    <connection>scm:git:https://github.com/reaktivity/reaktive-netty3.java</connection>
+    <developerConnection>scm:git:https://github.com/reaktivity/reaktive-netty3.java</developerConnection>
+    <url>https://github.com/reaktivity/reaktive-netty3.java</url>
   </scm>
 
   <properties>
